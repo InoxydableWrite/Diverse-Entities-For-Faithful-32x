@@ -1,3 +1,4 @@
 {
+  "recommendations": ["foxundermoon.shell-format"],
   "unwantedRecommendations": ["ms-vscode-remote.remote-wsl"]
 }
