@@ -1,4 +1,7 @@
 {
-  "recommendations": ["foxundermoon.shell-format"],
+  "recommendations": [
+    "foxundermoon.shell-format",
+    "github.vscode-pull-request-github"
+  ],
   "unwantedRecommendations": ["ms-vscode-remote.remote-wsl"]
 }
